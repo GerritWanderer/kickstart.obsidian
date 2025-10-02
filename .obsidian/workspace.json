@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "e40a1431192c921e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5068f3b9bf1954e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d581fbf2f62136e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74df24cca98798a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca05c613e741b166",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "194014e86399bc4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9ca49d1d2edfc974",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c3ba23d764bbc4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "right": {
+    "id": "f37f13a463a4938b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3446140e811cc504",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28972072a499fbac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-Daily/2025/10-October/2025-10-01-Wednesday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-10-01-Wednesday"
+            }
+          },
+          {
+            "id": "5733b3459e904426",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-Daily/2025/10-October/2025-10-01-Wednesday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-10-01-Wednesday"
+            }
+          },
+          {
+            "id": "4706b297206d2f09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f8a12a915e76adba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-Daily/2025/10-October/2025-10-01-Wednesday.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-10-01-Wednesday"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "194014e86399bc4c",
+  "lastOpenFiles": [
+    "01-Wildflower Field/Untitled.md",
+    "99-extras/templates/metatags.md",
+    "99-extras/templates/daily.md",
+    "00-Daily/2025/10-October/2025-10-02-Thursday.md",
+    "01-Wildflower Field/Untitled 1.md",
+    "00-Daily/2025/10-October",
+    "00-Daily/2025",
+    "01-Wildflower Field/Organizing notes within my wildflower field.md",
+    "00-Daily/2025/10-October/2025-10-01-Wednesday.md",
+    "00-Daily/Invalid date.md",
+    "Welcome.md",
+    "04-Compost",
+    "03-Garden",
+    "02-Propagator",
+    "99-extras/assets",
+    "99-extras/templates",
+    "00-Daily",
+    "01-Wildflower Field/Untitled 1",
+    "01-Wildflower Field/Untitled"
+  ]
+}
