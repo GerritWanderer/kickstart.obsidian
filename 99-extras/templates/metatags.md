@@ -1,6 +1,8 @@
 ---
-created: <% tp.file.creation_date() %>
-processed:
+planted: <% tp.file.creation_date() %>
+germinated:
+transplanted:
+flowered:
 tags:
   - raw/idea
   - raw/question
