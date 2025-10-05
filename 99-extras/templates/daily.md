@@ -1,7 +1,7 @@
 ---
 created: <% tp.file.creation_date() %>
 tags:
-  - daily
+  - type/daily
 ---
 ## 🎯 Today's Focus
 - [ ] one
@@ -23,7 +23,10 @@ tags:
 ## Notes created today
 
 ```dataview
-TABLE file.folder as "Folder" FROM ""
+TABLE
+tags as Tags,
+germinated as Germinated
+FROM ""
 WHERE dateformat(file.cday, "yyyy-MM-dd") = dateformat(this.file.day, "yyyy-MM-dd")
 AND file.name != this.file.name 
 SORT file.ctime ASC
