@@ -8,5 +8,6 @@
   "newFileFolderPath": "01-Wildflowers",
   "attachmentFolderPath": "99-extras/assets",
   "showInlineTitle": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

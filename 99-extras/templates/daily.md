@@ -17,9 +17,8 @@ tags:
 ```
 
 ## Daily notes section
-```
+
 <% tp.file.cursor() %>
-```
 
 ## Notes created today
 
