@@ -3,6 +3,12 @@ created: <% tp.file.creation_date() %>
 tags:
   - type/daily
 ---
+
+```dataviewjs
+const loadScript = async (path, params) => { const file = app.vault.getAbstractFileByPath(path); const content = await app.vault.read(file); eval(content)(dv, params); }; await 
+loadScript("99-extras/scripts/daily-nav.js");
+```
+
 ## 🎯 Today's Focus
 - [ ] one
 - [ ] two

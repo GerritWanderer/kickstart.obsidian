@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "01-Wildflower Field",
+      "folder": "01-Wildflowers",
       "template": "99-extras/templates/metatags.md"
     }
   ],
